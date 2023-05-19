@@ -1,5 +1,5 @@
 Hi, I’m @tomlqc.
 
-I am not new to git, but I am new to github.
+My main interests are scientific computing, computer science, machine learning and quantum computing.
 
-Let's explore it a bit...
+During the last month I have also been building an introduction to QC on [www.about-quantum.com](https://www.about-quantum.com) - WIP.
