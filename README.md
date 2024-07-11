@@ -1,6 +1,8 @@
 Hi, I’m @tomlqc.
 
-My main interests are scientific computing, computer science, machine learning and quantum computing.
+I like scientific computing, computer science, machine learning and quantum computing.
+
+Two of my spare time projects:
 
 [**about-quantum**](https://github.com/tomlqc/about-quantum) - Introduction to QC on [www.about-quantum.com](https://www.about-quantum.com) - 2021-2023 - WIP.
 
