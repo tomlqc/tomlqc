@@ -1,12 +1,12 @@
-Hi, I’m @tomlqc.
+Hi, I’m Thomas.
 
-I like scientific computing, computer science, machine learning and quantum computing.
+Physics, computer science and software engineering - it's the combination of these three that fascinates me.
 
-Two of my spare time projects:
+I have worked for many years on numerical methods for jet engine aerodynamics, in the realm of Computational Fluid Dynamics (CFD) and High Performance Computing (HPC).
 
-[**about-quantum**](https://github.com/tomlqc/about-quantum) - Introduction to QC on [www.about-quantum.com](https://www.about-quantum.com) - 2021-2023 - WIP.
+Quantum Computing has become my passion, and I am proud to be contributing at the forefront of this technology.
 
-[**identify-contrails**](https://github.com/tomlqc/identify-contrails) - Implementation and training of image segmentation models with TensorFlow,
-in the scope of the
-[Google Research - Identify Contrails to Reduce Global Warming](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
-Kaggle competition.
+My main technical interests range from scientific computing, computer science, machine learning to quantum computing.
+
+My favourite spare time project -> [**about-quantum**](https://github.com/tomlqc/about-quantum) - Introduction to QC on [www.about-quantum.com](https://www.about-quantum.com) - 2021-2023 - WIP.
+
